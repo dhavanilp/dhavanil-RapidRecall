@@ -6,7 +6,7 @@ import kotlin.random.Random
 //Purpose: Handles the data/rules and current state of game
 //Design Rationale: Model keeping track of the sequence and user input
 class GameModel : TModel<GameModel>() {
-    var sequenceLength: Int = 3
+    var sequenceLength: Int = 1
         private set
     var targetSequence: String = ""
         private set
