@@ -27,5 +27,4 @@ respose: Think of coroutines as "lightweight threads." They allow you to run lon
 Instead of messy callbacks, coroutines let you write asynchronous code that looks and behaves like simple, sequential, top-to-bottom code.
 
 
-## Verbal Collaboration
-`Manush Patel`
+
